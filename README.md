@@ -26,3 +26,32 @@ Recruit PSU will offer the following key features:
 
 By leveraging these features, Recruit PSU aims to bridge the gap between Prince Sultan University students and employers, providing a seamless platform for internship and job search, and ultimately enhancing the career prospects of our students.
 
+
+# Market
+
+Recruit PSU aims to fill a significant market need for Prince Sultan University students seeking internship and job opportunities. By integrating the platform with the university's existing systems and databases, we can provide a seamless and streamlined experience for students to access a curated selection of internship and employment prospects.
+
+The implementation of Recruit PSU would be a strategic move for Prince Sultan University, both academically and from a business perspective. As a novel solution in the Saudi Arabian higher education landscape, the platform would give the university a competitive edge and serve as an effective marketing strategy to attract prospective students.
+
+Moreover, the platform's ability to facilitate internship and cooperative (co-op) opportunities would have a direct impact on the employment rates of PSU students. By enabling them to leverage the skills and knowledge gained during their academic studies and apply them in real-world, practical settings, Recruit PSU will enhance the students' contributions to their respective communities and industries.
+
+The integration of Recruit PSU with the university's existing platforms and databases will be a crucial aspect of the project, as it will ensure that the platform is deeply embedded within the institution's ecosystem. This integration will not only provide students with a centralized and efficient access point for finding internships and jobs but also allow the university to better support its students' career development and post-graduation employment outcomes.
+
+Overall, the implementation of Recruit PSU represents a significant opportunity for Prince Sultan University to differentiate itself, improve student outcomes, and contribute to the broader economic and societal development of the region.
+
+# Progress
+
+The Recruit PSU platform is already well under development, thanks to the team's use of the Softr no-code tool which has accelerated the process. Most of the core features have already been implemented, with the exceptions noted in the [issues tab of this repository](https://github.com/AhmedYasserIbrahim/Recruit-PSU/issues).
+
+As documented, there are a few key features still in progress or planned for the future:
+
+1. Automating the process of adding new data, such as student profiles and job postings, to the platform.
+
+2. Allowing students to upload their CVs to the platform.
+
+3. Enabling students to edit their own profile information as needed.
+
+While some premium Softr features are still unavailable, the core functionality of the Recruit PSU platform is largely in place thanks to the no-code development approach. The remaining planned improvements focus on enhancing the user experience for both students and employers. It is also worth mentioning that once the premium subscription is acquired, implementing these features would be feasible within less than a week.
+
+# Preview
+
