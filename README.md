@@ -51,7 +51,8 @@ As documented, there are a few key features still in progress or planned for the
 
 3. Enabling students to edit their own profile information as needed.
 
-While some premium Softr features are still unavailable, the core functionality of the Recruit PSU platform is largely in place thanks to the no-code development approach. The remaining planned improvements focus on enhancing the user experience for both students and employers. It is also worth mentioning that once the premium subscription is acquired, implementing these features would be feasible within less than a week.
+While some premium Softr features are still unavailable, the core functionality of the Recruit PSU platform is largely in place thanks to the no-code development approach. The remaining planned improvements focus on enhancing the user experience for both students and employers. It is also worth mentioning that once the premium subscription is acquired, implementing these features would be feasible within less than a week. Feel free to add any issues to the issue tab of this repository!
 
 # Preview
 
+We created a folder containing images related to the Recruit-PSU project. This folder serves as a visual reference to showcase the different pages and features of the platform. You can access this folder [here](https://github.com/AhmedYasserIbrahim/Recruit-PSU/tree/main/Photos).
