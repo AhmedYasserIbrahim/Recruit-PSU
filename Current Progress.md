@@ -12,3 +12,4 @@ This document serves as a comprehensive log of the project's progress, highlight
 - Google sign in was added as a feature.
 - Confirmed that PSU students would be considered external users, making the pricing of publication feasible.
 - Created a page to give the option to sign up as student or as recruiter.
+- Created a button to add a job listing. Only available to recruiters.
