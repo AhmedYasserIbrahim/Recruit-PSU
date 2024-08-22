@@ -7,6 +7,7 @@ This document serves as a comprehensive log of the project's progress, highlight
 - Forgot password feature does not work. **(Probably because the website is not published yet)**.
 - Not sure whether to make joining the platform for a small fee such as 5$ to help with the cost.
 - Need to add the page where users can modify their account information. **(Done via Make Academy)**.
+- Confirm that updating student information does not modify the fields that were not filled by the user.
 
 # Features 
 - Google sign in was added as a feature.
