@@ -6,10 +6,11 @@ This document serves as a comprehensive log of the project's progress, highlight
 - Signing in normally does not create a password for the user, so the user needs to go to the forgot password page to sign in. **(New users are forwarded to the forgot password page to set their password)**.
 - Forgot password feature does not work. **(Probably because the website is not published yet)**.
 - Not sure whether to make joining the platform for a small fee such as 5$ to help with the cost.
-- Need to add the page where users can modify their account information.
+- Need to add the page where users can modify their account information. **(Done via Make Academy)**.
 
 # Features 
 - Google sign in was added as a feature.
 - Confirmed that PSU students would be considered external users, making the pricing of publication feasible.
 - Created a page to give the option to sign up as student or as recruiter.
 - Created a button to add a job listing. Only available to recruiters.
+- Created two scenarios on Make Academy, through which students/recruiters can modify their account details. The Blueprints are attached to this repository.
