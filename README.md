@@ -43,18 +43,30 @@ Overall, the implementation of Recruit PSU represents a significant opportunity 
 
 The Recruit PSU platform is already well under development, thanks to the team's use of the Softr no-code tool which has accelerated the process. Most of the core features have already been implemented, with the exceptions noted in the [issues tab of this repository](https://github.com/AhmedYasserIbrahim/Recruit-PSU/issues).
 
-As documented, there are a few key features still in progress or planned for the future:
+You can find more details regarding the progress [here](https://github.com/AhmedYasserIbrahim/Recruit-PSU/blob/main/Current%20Progress.md).
 
-1. Automating the process of adding new data, such as student profiles and job postings, to the platform.
-
-2. Allowing students to upload their CVs to the platform.
-
-3. Enabling students to edit their own profile information as needed.
-
-While some premium Softr features are still unavailable, the core functionality of the Recruit PSU platform is largely in place thanks to the no-code development approach. The remaining planned improvements focus on enhancing the user experience for both students and employers. It is also worth mentioning that once the premium subscription is acquired, implementing these features would be feasible within less than a week. Feel free to add any issues to the issue tab of this repository!
+While some premium Softr features are still unavailable, the core functionality of the Recruit PSU platform is largely in place thanks to the no-code development approach. The remaining planned improvements focus on enhancing the user experience for both students and employers. It is also worth mentioning that once the premium subscription is acquired, implementing these features would be feasible within less than a week. Feel free to add any issues to the issue tab of this repository! 
 
 # Preview
 
 We created a folder containing images related to the Recruit-PSU project. This folder serves as a visual reference to showcase the different pages and features of the platform. You can access this folder [here](https://github.com/AhmedYasserIbrahim/Recruit-PSU/tree/main/Photos).
 
 The advertisement video was also created and it can be found in this repository. Click [Here](https://github.com/AhmedYasserIbrahim/Recruit-PSU/blob/main/Advertisement%20Video.md) to view the video folder.
+
+# What's Next?
+
+As we finalize the platform, we are currently collecting feedback from university professors. Once the platform is complete and launched, we will share a post on LinkedIn to invite students to participate via an online form. Our goal is to recruit between 20 and 30 students for the beta testing phase, allowing us to identify and address any potential issues.
+
+Following the beta testing, we will begin reaching out to startup companies to encourage them to post their job listings on our platform. Additionally, we plan to feature university competitions and club activities to enhance engagement and attract more students.
+
+Ultimately, the platform will be open for university students to create accounts and start making connections!
+
+# How to Contribute
+
+We are actively developing the project and welcome your contributions. To get a comprehensive understanding of the project, please explore the repository.
+
+We encourage you to share your feedback—whether through comments, pull requests, or direct contact with me. We are open to suggestions and modifications to enhance the platform.
+
+If you're interested in joining the beta testing phase and potentially gaining additional privileges as a user, please fill out the form provided. For those wishing to contribute, feel free to fork the repository and add your name as a contributor. Your input is invaluable to us!
+
+ 
