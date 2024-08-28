@@ -56,3 +56,5 @@ While some premium Softr features are still unavailable, the core functionality 
 # Preview
 
 We created a folder containing images related to the Recruit-PSU project. This folder serves as a visual reference to showcase the different pages and features of the platform. You can access this folder [here](https://github.com/AhmedYasserIbrahim/Recruit-PSU/tree/main/Photos).
+
+The advertisement video was also created and it can be found in this repository. Click [Here](https://github.com/AhmedYasserIbrahim/Recruit-PSU/blob/main/Advertisement%20Video.md) to view the video folder.
