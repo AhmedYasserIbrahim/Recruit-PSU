@@ -79,6 +79,6 @@ We are actively developing the Recruit PSU project and welcome your contribution
 
 6. **Fork the Repository**: You can fork the project to make your own contributions and add your name as a contributor.
 
-Your input is invaluable, and we appreciate any effort to enhance the platform! For feedback and to view others' comments, visit [this link](https://github.com/AhmedYasserIbrahim/Recruit-PSU).
+Your input is invaluable, and we appreciate any effort to enhance the platform! For feedback and to view others' comments, visit [this link](https://github.com/AhmedYasserIbrahim/Recruit-PSU/blob/main/Feedback.md).
 
  
