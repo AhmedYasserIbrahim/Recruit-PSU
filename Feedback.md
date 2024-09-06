@@ -27,7 +27,7 @@ Welcome to our feedback page! Your insights are crucial for enhancing our platfo
 ## Suggestions from Dr. B
 
 ### Database Transition
-- **Move to PostgreSQL**: Transition from Google Sheets to PostgreSQL for better data management.
+- **Move to PostgreSQL**: Transition from Google Sheets to PostgreSQL for better data management. (This feature is almost done!)
 
 ### Custom Code Development
 - **Shift from Softr**: Develop our own codebase to ensure complete ownership and avoid subscription fees, while keeping development efficient.
