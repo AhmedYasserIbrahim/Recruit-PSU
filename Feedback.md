@@ -11,7 +11,7 @@ Welcome to our feedback page! Your insights are crucial for enhancing our platfo
 
 ### Simplified Access
 - **Browse Without Registration**: Allow recruiters to explore the student database without creating an account.
-- **Quick Sign-Up**: Streamline the registration process for recruiters.
+- **Quick Sign-Up**: Streamline the registration process for recruiters. (This feature is implemented through the "Explore as recruiter" option in the sign in page).
 
 ### Funding Opportunities
 - **Engage with Incubators**: Present our platform to incubators for funding, especially those partnered with Prince Sultan University.
