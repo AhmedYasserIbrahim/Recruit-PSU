@@ -15,3 +15,4 @@ This document serves as a comprehensive log of the project's progress, highlight
 - Created a page to give the option to sign up as student or as recruiter.
 - Created a button to add a job listing. Only available to recruiters.
 - Created two scenarios on Make Academy, through which students/recruiters can modify their account details. The Blueprints are attached to this repository.
+- Fixed some errors related to the flow of events and improved the UI for the platform.
