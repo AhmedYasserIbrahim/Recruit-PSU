@@ -20,7 +20,7 @@ Welcome to our feedback page! Your insights are crucial for enhancing our platfo
 - **Value Proposition**: Consider monetization later, leveraging the benefits for both students and recruiters.
 
 ### Skill-Based Search
-- **Search by Skills**: Allow recruiters to find students based on specific skills, and provide students with metrics to showcase their abilities.
+- **Search by Skills**: Allow recruiters to find students based on specific skills, and provide students with metrics to showcase their abilities. (This feature was implemented as the students can now be found by searching for specific skills or accomplishments. It is not a perfect solution but it is suffiecient for now as adding skills as a field would be too overwhelming given the number of skills per major).
 
 ---
 
